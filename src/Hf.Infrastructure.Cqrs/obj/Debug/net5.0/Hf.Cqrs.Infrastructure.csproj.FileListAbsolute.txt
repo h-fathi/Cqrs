@@ -1,0 +1,11 @@
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\net5.0\Hf.Cqrs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\net5.0\Hf.Cqrs.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\net5.0\Hf.Cqrs.Infrastructure.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\net5.0\Hf.Cqrs.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\bin\Debug\net5.0\Hf.Cqrs.Infrastructure.deps.json
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\bin\Debug\net5.0\Hf.Cqrs.Infrastructure.dll
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\bin\Debug\net5.0\ref\Hf.Cqrs.Infrastructure.dll
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\bin\Debug\net5.0\Hf.Cqrs.Infrastructure.pdb
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\net5.0\Hf.Cqrs.Infrastructure.dll
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\net5.0\ref\Hf.Cqrs.Infrastructure.dll
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\net5.0\Hf.Cqrs.Infrastructure.pdb

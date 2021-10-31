@@ -1,0 +1,5 @@
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\Hf.Cqrs.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\Hf.Cqrs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\Hf.Cqrs.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\Hf.Cqrs.Infrastructure.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\Hf.Infrastructure.Cqrs\Hf.Infrastructure.Cqrs\obj\Debug\netcoreapp3.1\Hf.Cqrs.Infrastructure.csproj.CoreCompileInputs.cache
